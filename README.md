@@ -30,8 +30,6 @@ Contador Publico, apasionado por el mundo de la ciencia de datos y el machine le
 
 | Name       | Descripción                                                                                                             | Link                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| SuperMercardo    | dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i | https://www.linkedin.com/in/alejandrocipolat/         |
-| SuperMercardo    | dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i | https://www.linkedin.com/in/alejandrocipolat/         |
-| SuperMercardo    | dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i | https://www.linkedin.com/in/alejandrocipolat/         |
+| Credit and Debit cards issue in Argentina    | dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i |https://github.com/AleCipolat/analysis_cards_bcra|
 
 
