@@ -30,6 +30,6 @@ Contador Publico, apasionado por el mundo de la ciencia de datos y el machine le
 
 | Name       | Descripción                                                                                                             | Link                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Credit and Debit cards issue in Argentina    | dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i |https://github.com/AleCipolat/analysis_cards_bcra|
+| Credit and Debit cards issue in Argentina    | A data analysis showing some trends for the credit and debit card holders in Argentina |https://github.com/AleCipolat/analysis_cards_bcra|
 
 
