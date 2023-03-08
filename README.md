@@ -30,6 +30,10 @@ Contador Publico, apasionado por el mundo de la ciencia de datos y el machine le
 
 | Name       | Descripción                                                                                                             | Link                                                                                                            |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Credit and Debit cards issue in Argentina    | A data analysis showing some trends for the credit and debit card holders in Argentina |https://github.com/AleCipolat/analysis_cards_bcra|
-
-
+| Credit and Debit cards issue in Argentina    | Mediante una extraccion y limpieza de datos del Banco Central de la Republica Argentina se genera un dataset para luego ser visualizado y analizado con power BI |https://github.com/AleCipolat/analysis_cards_bcra|
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Analisis de ventas | Analisis de las ventas de una cadena de tiendas que vende articulos variados como juegos, peliculas entre otros con el fin de poder construir un modelo que permita predecir las ventas futuras y generar insights para una mejor estrategia de negocio| link
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Analiis de vuelos | En este proyecto se han analizado los diferentes vuelos de un dataset con el objetivo de realizar un analisis exploratorio de datos | link
+| ---------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Stock Report generator | Con los datos historicos de una API de Nasdaq y una libreria que captura datos de yahoo finance, se descargan los datos y se los procesa para generar ciertos reportes en Excel | link
